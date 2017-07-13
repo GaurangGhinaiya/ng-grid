@@ -1,0 +1,16 @@
+#!/bin/bash 
+# Version: 1.0.0
+# Author: codeRISE ( https://coderise.io )
+#
+#  This script gets committed to your repository and can be used for running specific
+#  commands. The script gets executed as part of the build step.
+#
+
+# example
+#
+# npm install
+# npm test
+# npm start
+# exit 0
+#
+
